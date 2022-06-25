@@ -1,0 +1,85 @@
+li{ list-style: none;}
+.xm-24bk1 {
+    width: 100%;
+    height: 2000px;
+}
+
+.xm-24img1 {
+    width: 100%;
+    height: 500px;
+    background: url(../images/img1.jpg) no-repeat;
+    background-size: cover;
+}
+
+.xm-24bx1 {
+    width: 1200px;
+    height: 500px;
+    margin: auto;
+}
+
+.xm-24bx2 {
+    width: 270px;
+    height: 150px;
+    background: rgba(236, 11, 11, 0.651);
+    text-align: center;
+    line-height: 150px;
+    color: #fff;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+
+}
+.xm-24bx {
+    width: 1200px;
+    margin: auto;
+}
+
+.xm-24text1 {
+    font-weight: normal;
+}
+.xm-24bk2 li{
+width: 100%;
+height: 400px;
+background: url(../images/xm-24px2.jpg) no-repeat;
+    background-size: cover;
+    padding: 30px ;
+    margin-top: 100px ;
+}
+
+.xm-24img2{
+   
+    width: 700px;
+    height: 400px ;
+    overflow: hidden;
+}
+.xm-24bk2ab{
+   
+width: 352px ;
+margin-left: 30px;
+margin-top: 50px;
+}
+.xm-24bk2ab h1{
+font-size: 20px;
+font-weight: normal;
+color: #464646;
+}
+.xm-24bk2ab p{
+font-size: 16px;
+margin-top: 20px ;
+line-height: 2em;
+color: #666666;
+}
+ li:nth-child(2n) .xm-24bk2ab{
+    float: left;
+}
+ li:nth-child(2n) .xm-24img2{
+    float: right;
+    
+}
+li:nth-child(2n+1) .xm-24bk2ab{
+    float: right;
+}
+ li:nth-child(2n+1) .xm-24img2{
+    float: left;
+    
+}

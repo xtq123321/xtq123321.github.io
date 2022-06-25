@@ -1,0 +1,270 @@
+.bk {
+    /* width: 1519px; */
+    /* height: 1020px; */
+    margin: auto;
+    /* background-color: hotpink; */
+}
+
+.bk1 {
+    width: 100%;
+    height: 120px;
+    margin: auto;
+    background-color: #f5eaea;
+}
+.bk1-1-1{
+  font-size: 40px;
+}
+.bk1-1 {
+  padding-top:40px;
+  padding-left: 200px;
+    float: left;
+}
+
+
+
+/* .bk1-3 {
+  padding-left: 200px;
+   
+    margin-top: 30px;
+} */
+.bk1-3 {
+  padding-right: 200px;
+  float: right;
+  padding-top:40px;
+}
+
+.bk1-2-1 ul li {
+    float: right;
+    list-style: none;
+    margin-top: 26px;
+}
+
+.bk2-1 {
+    width: 100%;
+    height: 500px;
+    text-align: center;
+    float: left;
+
+}
+
+.bk2-2 {
+    float: left;
+    width: 100%;
+    text-align: center;
+
+
+}
+
+.bk2 {
+    width: 100%;
+    height: 50px;
+    clear: both;
+}
+
+.bk3 {
+    clear: both;
+    width: 100%;
+    height: 635px;
+    background: url(../images/img1.jpg) no-repeat;
+    background-size: cover;
+    margin: auto;
+}
+.bk4 {
+    width: 100%;
+    height: 1200px;
+    clear: both;
+    background: url(../images/px4.jpg) no-repeat;
+    background-size: cover;
+    padding-top: 30px;
+}
+
+.bk3-1 {
+    float: left;
+    padding-top: 70px;
+    width: 18em;
+}
+
+.bk3-1-1 {
+    width: 1200px;
+    height: 120px;
+    margin: auto;
+
+}
+
+.bk3-2 {
+
+    width: 400px;
+    height: 476px;
+    position: relative;
+    top: 60px;
+    float: right;
+}
+
+
+
+
+
+.bk4-1 ,.bk4-2 ,.bk4-3,.bk4-4 {
+    display: block;
+    float: left;
+    width: 600px;
+    height: 361px;
+    margin: 3px 0px;
+}
+.bk4-2{
+    position: relative;
+    left: -23px;
+}
+.bk4-5,.bk4-6,.bk4-7{
+    float: left;
+    width: 393px;
+    overflow: hidden;
+    margin-right: 7px;
+    margin-top: 2px;
+    position: relative;
+}
+
+.bk-img4-1 ,.bk-img4-3 ,.bk-img4-4{
+    width: 594px;
+    float: left;
+    position: relative;
+    overflow: hidden;
+}
+.bk-img4-5 ,.bk-img4-6 ,.bk-img4-7{
+    width: 397px;
+    float: left;
+    position: relative;
+    overflow: hidden;
+}
+
+
+
+.bk-img4-1 p,.bk-img4-3 p,.bk-img4-4 p
+{
+    position: absolute;
+    left: 20px;
+    bottom: 20px;
+    font-size: 30px;
+    color: #fff;
+    font-weight: bold;
+    z-index: 2;
+}
+.bk-img4-5 p,.bk-img4-6 p,.bk-img4-7 p
+{
+    position: absolute;
+    left: 20px;
+    bottom: 20px;
+    font-size: 30px;
+    color: #fff;
+    font-weight: bold;
+    z-index: 2;
+}
+
+.bk-img4-1 .black_bg ,.bk-img4-3 .black_bg ,.bk-img4-4 .black_bg,.bk-img4-5 .black_bg,.bk-img4-6 .black_bg,.bk-img4-7 .black_bg{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0);
+    z-index: 1;
+}
+.bk-img4-1:hover .black_bg ,.bk-img4-3:hover .black_bg,.bk-img4-4:hover .black_bg,.bk-img4-5:hover .black_bg,.bk-img4-6:hover .black_bg,.bk-img4-7:hover .black_bg{
+    background: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    left: 0;
+    top: -4px;
+    width: 100%;
+    height: 100%;
+
+}
+
+
+
+
+
+
+.bk5 {
+    clear: both;
+    width: 100%;
+    height: 700px;
+    background: url(../images/img8\(1\).png) no-repeat;
+    background-size: cover;
+    padding-top: 1px;
+    margin-top: -110px;
+}
+
+.bk5-1-1 {
+    width: 1200px;
+    margin: auto;
+}
+
+.bk6-1-1 {
+    width: 1200px;
+    margin: auto;
+}
+
+.bk5-1 {
+    width: 436px;
+    height: 470px;
+    background: rgba(222, 1, 28, 0.85);
+    float: right;
+    margin-top: 55px;
+}
+
+.bk7_1 {
+    width: 1200px;
+    margin: auto;
+}
+
+.bk6 {
+
+    width: 87%;
+    height: 114px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.bk8-1-1 {
+    width: 1200px;
+    margin: auto;
+
+}
+
+.bk4-1-1 {
+    width: 1200px;
+    margin: auto;
+
+}
+
+.bk7-2 {
+    float: right;
+    width: 500px;
+    height: 537px;
+
+}
+
+.bk7-2-2 {
+    border-top: 1px solid #efefef;
+    margin-bottom: 37px;
+}
+
+.bk8 {
+    width: 100%;
+    height: 200px;
+    clear: both;
+    border-top: 1px solid #d7d7d7;
+    background: url(../images/px8.jpg);
+
+}
+
+.bk8-1 {
+    width: 89%;
+    margin: auto;
+}
+
+.bk8-2 {
+    float: left;
+    padding: 45px 18px;
+}
+
